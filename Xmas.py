@@ -1,3 +1,4 @@
+#import dependencies 
 import turtle
 
 screen = turtle.Screen()
