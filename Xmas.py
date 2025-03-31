@@ -2,6 +2,7 @@
 #import dependencie 
 #import dependencie
 #import dependencie
+#import dependencie
 import turtle
 
 screen = turtle.Screen()
